@@ -10,3 +10,14 @@ I create some of simples plank themes for my own usage but now I will share this
 It's a mix of Transparency and Pantheon Theme.
 
 ![Texte alternatif](https://raw.githubusercontent.com/bokehlicia/preview-images/master/Pantiva.png "Pantiva")
+
+###Installation
+
+Place your theme in plank/themes.
+
+e.g.
+
+<pre>
+sudo mv the_path_of_your_theme /usr/share/plank/themes
+</pre>
+
