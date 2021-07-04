@@ -17,9 +17,7 @@ I create some of simples plank themes for my own usage but now I will share this
 
 ```yml
 git clone https://github.com/fsvh/plank-themes.git
-
 cd plank-themes
-
 ./install.sh
 ```
 
