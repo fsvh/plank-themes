@@ -14,9 +14,12 @@ I create some of simples plank themes for my own usage but now I will share this
 ![Texte alternatif](https://raw.githubusercontent.com/bokehlicia/preview-images/master/Capeos.png "Pantiva")
 
 ### Installation
-<pre>
+
+```yml
 git clone https://github.com/fsvh/plank-themes.git
+
 cd plank-themes
+
 ./install.sh
-</pre>
+```
 
